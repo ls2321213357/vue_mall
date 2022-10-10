@@ -1,0 +1,57 @@
+[
+  {
+    "consignee": "王美美",
+    "fullAddress": "上海市崇明区第二街道尚硅谷大厦",
+    "id": 2254,
+    "isDefault": "0",
+    "phoneNum": "18632547821",
+    "provinceId": 6,
+    "regionId": 2,
+    "userAddress": "尚硅谷",
+    "userId": 2
+  },
+  {
+    "consignee": "刘帅哥",
+    "fullAddress": "河北省唐山市路北区新天地美域11区",
+    "id": 2255,
+    "isDefault": "1",
+    "phoneNum": "15530835782",
+    "provinceId": 7,
+    "regionId": 3,
+    "userAddress": "河北唐山",
+    "userId": 3
+  },
+  {
+    "consignee": "高美妞",
+    "fullAddress": "河北省唐山市路北区新天地美域15区",
+    "id": 2256,
+    "isDefault": "0",
+    "phoneNum": "18031333932",
+    "provinceId": 8,
+    "regionId": 4,
+    "userAddress": "河北唐山",
+    "userId": 4
+  },
+  {
+    "consignee": "打不刘",
+    "fullAddress": "河北省唐山市丰润区丰润镇高各庄村",
+    "id": 2257,
+    "isDefault": "0",
+    "phoneNum": "15232581888",
+    "provinceId": 9,
+    "regionId": 5,
+    "userAddress": "河北唐山",
+    "userId": 5
+  },
+  {
+    "consignee": "吕女士",
+    "fullAddress": "河北省唐山市路北区万科公园大道6区",
+    "id": 2258,
+    "isDefault": "0",
+    "phoneNum": "17713174949",
+    "provinceId": 10,
+    "regionId": 6,
+    "userAddress": "河北唐山",
+    "userId": 6
+  }
+]
